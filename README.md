@@ -1,4 +1,4 @@
-# rofi-i3-keybinds-cheatsheet-plugin
+# rofi-i3-keybinds-cheatsheet
 A very simple script to show all the keybinds with mode hint in rofi
 ![image](./2022-03-19_04-39.png)
 ## useage
