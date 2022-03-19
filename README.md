@@ -11,6 +11,6 @@ A very simple script to show all the keybinds with mode hint in rofi
 	```	
 you can make a keybind to this script in your i3 config
 	```shell
-		bindsym [keybinds] exec --no-startup-id /path/to/keybind_cheatsheet.sh [i3config path] [padding]
+		bindsym [keybinds] exec --no-startup-id [path/to/keybind_cheatsheet.sh] [path/to/i3/config] [padding]
 	```
 	
