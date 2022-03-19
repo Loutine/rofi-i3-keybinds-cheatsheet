@@ -1,5 +1,5 @@
 # rofi-i3-keybinds-cheatsheet-plugin
-![image](~/rofi-i3-keybinds-cheatsheet-plugin/2022-03-19_04-39.png)
+![image](./2022-03-19_04-39.png)
 A very simple to show all the keybinds with mode hint in rofi
 
 ## useage
